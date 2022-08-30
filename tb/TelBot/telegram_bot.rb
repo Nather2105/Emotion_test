@@ -3,7 +3,7 @@ class TelegramBot
     :additional, :tb, :additional_message, :tmp, :keyboard
 
     def initialize
-        @token = "TOKEN"
+        @token = "5447939412:AAFt-Pt7TlMTn6T3bNiIAjCaN9Vet8AUx0Y"
         @points = 0
         @flag = 0
         @skale1 = 0
